@@ -1,6 +1,6 @@
 var playlist = { 
-  Slowdive: 'I am a God', 
-  MyBloodyValentine:'Morning' 
+  Person1:'Slowdive', 
+  Person2:'My Bloody Valentine' 
 }
 
 function updatePlaylist (playlist,artistName,songTitle) {
