@@ -1,6 +1,6 @@
-var playlist = { kanye: 'I am a God', jcole: 'Morning', jayz: '99 Problems' } 
+var playlist = { Slowdive: 'I am a God', My Bloody Valentine: 'Morning' } 
 
 function updatePlaylist (playlist,artistName,songTitle) {
-  playlist.artistName = 'songTitle'
+  playlist.artistName = 'Phil Ochs'
   return playlist
 }
