@@ -6,3 +6,5 @@ var playlist = {
 function updatePlaylist (playlist,artistName,songTitle) {
   playlist['Phil Ochs'] = 'six';
 }
+
+function removeFromPlaylist (playlist, artistName)
