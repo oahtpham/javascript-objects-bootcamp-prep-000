@@ -1,0 +1,1 @@
+var playlist = { kanye: 'I am a God', jcole: 'Morning', jayz: '99 Problems' } 
